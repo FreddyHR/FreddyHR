@@ -1,15 +1,9 @@
 <h1 align="center">Hi 👋, I'm Freddy Herrera</h1>
-<h3 align="center">A passionate and versatile Data Engineer, I blend a unique Civil Engineering background with expertise in Python, RDBMS, NoSQL databases, ETL tools, and Big Data technologies. Proficient in cloud services like AWS and IBM Cloud, I specialize in delivering innovative data-driven solutions for diverse projects.</h3>
-
-- 🌱 I'm currently expanding my knowledge in **Amazon Web Services Solutions**
+<h3 align="center">A passionate and versatile Data Engineer with expertise in Python, RDBMS, NoSQL databases, ETL tools, and Big Data technologies. Proficient in cloud services like Azure and AWS, I specialize in delivering innovative data-driven solutions for diverse projects.</h3>
 
 - 👨‍💻 All of my projects are available at [https://sites.google.com/view/deprojects/inicio](https://sites.google.com/view/deprojects/inicio)
 
-- 💬 Ask me about **Python, SQL (MySQL, Postgres, and DB2), NoSQL (MongoDB, Cassandra, and Cloudant)), Airflow, Kafka, Hadoop, Hive, and Cloud Services (IBM Cloud, and AWS)**
-
 - 📫 How to reach me **frhr21@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1hChDqdcyLRJIFL_I2UVOcqnX3wmhqsXI/view?usp=drive_link](https://drive.google.com/file/d/1hChDqdcyLRJIFL_I2UVOcqnX3wmhqsXI/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
